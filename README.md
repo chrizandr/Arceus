@@ -11,7 +11,7 @@ git clone https://github.com/chrizandr/Arceus
 ### Use virtual environment (optional)
 
 ```
-sudo apt install virtualenv
+sudo apt install python3-virtualenv
 virtualenv -p /usr/bin/python3 venv
 source venv/bin/activate
 ```
