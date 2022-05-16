@@ -72,13 +72,13 @@ def validate_index():
 
 def get_pokemon_name(pokemon):
     """Covnert name to a standard format for lookup"""
+    pokemon = pokemon.lower()
     if pokemon.startswith("s."):
         pokemon = pokemon.replace("s.", "shiny")
     if pokemon.startswith("d."):
         pokemon = pokemon.replace("d.", "dark")
     if pokemon.startswith("g."):
         pokemon = pokemon.replace("g.", "golden")
-    pokemon = pokemon.lower()
     return pokemon
 
 
