@@ -10,7 +10,7 @@ def get_trainer_ft(member):
     entry = data.getBy({"user": username})
     if len(entry) == 1:
         value = entry[0]["for_trade"]
-        response = "{username} is trading:\n```\n" + str(value) + "\n```"
+        response = "{username} is trading:\n\n" + str(value) + "\n"
         return response.format(username=member.mention)
     else:
         response = "{username} is trading absolutely nothing cause they're poor."
