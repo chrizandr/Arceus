@@ -14,6 +14,6 @@ def fun_commands(message):
         response = "SpookZ is bae"
     if message.content.startswith('!shiva'):
         response = "He is rich now, start begging him for freebies."
-    if "contest" in message.content.lower():
-        response = 'Grats Matt'
+    # if "contest" in message.content.lower():
+    #     response = 'Grats Matt'
     return response
