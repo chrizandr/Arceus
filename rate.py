@@ -14,7 +14,7 @@ rate_sheet = {}
 header = data[0].split(",")
 for r in data[1::]:
     poke = r.split(",")
-    name, male, female, genderless, ungendered, info = poke
+    name, male, female, ungendered, genderless, info = poke
     rate_sheet[name.lower()] = {
         "name": name.strip(),
         "male": male.strip(),
