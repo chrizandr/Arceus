@@ -4,6 +4,7 @@ from keep_alive import keep_alive
 from misc import fun_commands
 from trainer_id import trainer_id_handler
 from rarity import rarity_handler
+from rate import rate_handler
 from for_trade import trainer_ft_handler
 from dotenv import load_dotenv
 
@@ -32,6 +33,13 @@ async def on_message(message):
 
         if message.content.startswith("!rarity"):
             response = rarity_handler(message)
+            if type(response) is discord.embeds.Embed:
+                await message.channel.send(embed=response)
+            else:
+                await message.channel.send(response)
+
+        if message.content.startswith("!rate"):
+            response = rate_handler(message)
             if type(response) is discord.embeds.Embed:
                 await message.channel.send(embed=response)
             else:
