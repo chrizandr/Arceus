@@ -1,12 +1,5 @@
-from time import time
-from bs4 import BeautifulSoup
-from bs4.element import Tag
-import requests
-from pysondb import db
-import json
-import datetime
 import discord
-import pdb
+import random
 
 
 data = open("rates.csv").read().split("\n")
@@ -54,7 +47,7 @@ def get_rate(pokemon):
     if pokemon_name in rate_sheet:
         response = format_output(rate_sheet[pokemon_name])
     else:
-        response = f"Ask Webster about a `{pokemon}`"
+        response = f"I rate it `{random.randint(0, 10)}/10`"
     return response
 
 
