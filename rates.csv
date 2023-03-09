@@ -1,17 +1,17 @@
 Gold, Male, Female, Ungendered, Genderless, Info
-GoldenChimchar, 300-400x, 300-400x, -, -, -
-GoldenTurtwig,  300-400x, 300-400x, -, -, -
-GoldenPiplup, 400-500x, 400-500x, -, -, -
+GoldenChimchar, 400x, 400x, -, -, -
+GoldenTurtwig,  400x, 400x, -, -, -
+GoldenPiplup, 500x, 500x, -, -, -
 GoldenAbra, 1kx, 1.5kx, ?, -, (level 4 abras are 1.5kx)
 GoldenAron, 500x, 500x, ?, -, -
 GoldenArticuno, -, -, 30-40kx, 1kx, -
 GoldenAxew, 500x, 500x, -, -, -
 GoldenBagon, 500x, 500x, -, -, (level 4 goes for more)
-GoldenBeldum, -, -, ?, 4-5k, (base closer to 10k)
+GoldenBeldum, -, -, ?, 10k, -
 GoldenBlitzle, 300x, 300x, -, -, -
 GoldenBulbasaur, 1500x, 2000x+, 8kx, -, -
 GoldenCacnea, 100x, 100x, -, -, -
-GoldenChansey, -, 300x, -, -, -
+GoldenChansey, -, 500x, -, -, -
 GoldenCharmander, 18-20kx, 28-30kx, 22-25kx, -, -
 GoldenChespin, 300x, ?, -, -, -
 GoldenCherubi, 4kx, 4kx, -, -, -
@@ -24,8 +24,8 @@ GoldenDratini, 1kx, 1kx, ?, -, (level 4 goes for more)
 GoldenEkans, 300x, 300x, ?, -, -
 GoldenElectrike, 2kx, 2kx, ?, -, (level 4 - 2.5k)
 GoldenEspurr, 1.5k, 1.5kx, -, -, -
-GoldenEevee, 12-15k, 20k+, 15-20kx, -, (some might prefer (?) to F)
-GoldenFeebas, 10-15k, 10-15k, ask webster, -, (nb 8-10k)
+GoldenEevee, 30k, 35k, 35-40kx, -, (people prefer (?) to F but F is rarer)
+GoldenFeebas, 15-20k, 15-20k, ask webster, -, (nb 8-10k)
 GoldenFennekin, 400x-500x, ?, -, -, -
 GoldenFletchling, 500x+, 500x, -, -, -
 GoldenFroakie, 300-400x, ?, -, -, -
@@ -34,24 +34,24 @@ GoldenGenesect, -, -, -, 3kx, -
 GoldenGeodude, 1kx, 1kx, ?, -, (600-800 for non-base)
 GoldenGible, 500x, 500x, -, -, -
 GoldenGrowlithe, 1.5-2kx, 1.5-2kx, ?, -, -
-GoldenHappiny, -, 6k, -, -, (level 4 ones go for 10k+)
+GoldenHappiny, -, 6k, -, -, (level 4 ones go for 15k+)
 GoldenHonedge, 5k, 5k, -, -, -
 GoldenHorsea, 25-30kx, 25-30kx, -, -, -
 GoldenJirachi, -, -, -, 4k, (3.5kx for non-base)
 GoldenKabuto, ?, ?, 2-2.5k, -, (maybe whatever miltank is)
 GoldenKlefki, 100x, 100x, -, -, -
 GoldenKrabby, 100x, 100x, -, -, -
-GoldenLitten, 150x, ?, -, -, -
+GoldenLitten, 300x, ?, -, -, -
 GoldenLitwick, 300-400x, 300-400x, -, -, -
 GoldenLotad, 200-300x, 200-300x, ?, -, -
 GoldenMachop, 500, 500x, ?, -, -
-GoldenMagikarp, 1kx, 1kx, ?, -, -
+GoldenMagikarp, 1kx, 1kx, ?, -, (1.5k for level 4)
 GoldenMagnemite, -, -, ?, 100x, -
 GoldenMantine, ~300x, ~300x, ?, -, -
 GoldenMareep, 2kx, 2kx, ?, -, (around ray maybe more)
 GoldenMawile, 15kx, 15kx, ?, -, -
 GoldenMeowth, ?, ?, 3-4k, ?, (depends on level - 8kx+ for lv4)
-GoldenMewtwo, -, -, ?, 10k+, (lv4 = 15k)
+GoldenMewtwo, -, -, ?, 12kx, (lv4 = 15k)
 GoldenMiltank, -, 1.5-2kx, ?, -, (<lv100 is worth more)
 GoldenMime Jr.,  6-7k, 6-7k, ?, -, -
 GoldenMinun, 150x, 150x, -, -, (rate is usually 4 per Goldentoto)
@@ -64,22 +64,22 @@ GoldenPichu, 500x, 500x, ?, -, -
 GoldenPidgey, 25-30kx, 25-30kx, -, -, -
 GoldenPlusle, 150x, 150x, -, -, -
 GoldenPoliwag, 400x+, 400x+, -, -, -
-GoldenPoochyena, 5k+, 5k+, ?, -, (lower levels go for more)
-GoldenPopplio, 150x, ?, -, -, -
+GoldenPoochyena, 7kx, 7kx, ?, -, (lower levels go for more)
+GoldenPopplio, 300x, ?, -, -, -
 GoldenPsyduck, 100x, 100x, ?, -, -
 GoldenRalts, 2kx, 2kx, ?, -, -
 GoldenRayquaza, -, -, ?, 1.5kx, -
-GoldenRiolu, 5-6k, 6-7k, -, -, -
-GoldenRockruff, 5-6k, 5-6k, -, -, -
+GoldenRiolu, 10k, 12k, -, -, -
+GoldenRockruff, 8k, 8k, -, -, -
 GoldenRoggenrola, 100x, 100x, -, -, -
 GoldenRotom, -, -, -, 150-200x, -
-GoldenRowlet, 150x, ?, -, -, -
+GoldenRowlet, 300x, ?, -, -, (most liked of the three)
 GoldenSandile, 1kx, 1kx, -, -, -
 GoldenSandshrew, 250x, 250x, ?, -, -
 GoldenSandygast, 50x, 50x, -, -, (a few promos for each)
 GoldenScatterbug, 100-200x, 100-200x, -, -, -
 GoldenShinx, 500x, 500x, -, -, -
-GoldenShroomish, 8-10kx, 10kx, -, -, (breloom doesn't lose value)
+GoldenShroomish, 12kx, 14kx, -, -, (breloom doesn't lose value)
 GoldenShuckle, -, -, 5kx, -, (5kx is for lv4)
 GoldenSkiddo, 500x, 500x, -, -, -
 GoldenSlowpoke, 1kx, 1kx, -, -, (1kx for base)
@@ -90,22 +90,22 @@ GoldenSunkern, 1kx, 1kx, ?, -, (1kx+ if base)
 GoldenSwinub, 300x, 300x, -, -, -
 GoldenSquirtle, 2k, 3k, 8k+, -, (depends on the level)
 GoldenTauros, 250x, 1kx, 5k+, -, -
-GoldenTimburr, 5k+, 5k+, -, -, (hard to find)
+GoldenTimburr, 15k, 15k, -, -, (hard to find)
 GoldenTogepi, 20kx, 25kx, -, -, -
 GoldenTorchic, 300x, 400x, 5k+, -, -
 GoldenTrapinch, 1kx+, 1kx, ?, -, -
 GoldenTreecko, 500x, 500x+, ?, -, -
-GoldenTogedemaru, 500x+, 500x+, -, -, (underrated)
+GoldenTogedemaru, 1.5k, 1.5k, -, -, -
 GoldenTotodile, 500x, 500x, 10k/5k/2k/1-1.5k, -,  (? rates are for lv 5/10/20/nb)
 GoldenTyrogue, 250x, 250x, ?, -, -
 GoldenTyrunt, 300x, 300x, -, -, -
-GoldenVolcanion, -, -, -, 1kx, -
+GoldenVolcanion, -, -, -, 1.5kx, -
 GoldenVulpix, 2.5-3kx, 2.5-3kx, -, -, -
 GoldenWooper, ?, ?, 12-15kx, -, -
 GoldenXerneas, -, -, -, 5kx+, -
 GoldenYanma, 100x, 100x, ?, -, -
 GoldenYveltal, -, -, -, 5kx+, -
 GoldenZapdos, -, -, ?, 1.5kx, -
-GoldenZorua, 1000x, 1000x, -, -, -
-GoldenZubat, 5-6k, 5-6k, -, -, -
+GoldenZorua, 1.5kx, 1.5kx, -, -, -
+GoldenZubat, 7k, 7k, -, -, -
 GoldenZygarde, -, -, -, 40kx+, -
