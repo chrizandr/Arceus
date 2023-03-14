@@ -1,7 +1,7 @@
 import discord
 import os
 from keep_alive import keep_alive
-from misc import fun_commands
+from misc import fun_commands, choose_handler
 from trainer_id import trainer_id_handler
 from rarity import rarity_handler
 from rate import rate_handler
@@ -29,6 +29,9 @@ async def on_message(message):
             await message.channel.send(response)
         if message.content.startswith("!ft"):
             response = trainer_ft_handler(message)
+            await message.channel.send(response)
+        if message.content.startswith("!choose"):
+            response = choose_handler(message)
             await message.channel.send(response)
 
         if message.content.startswith("!rarity"):
