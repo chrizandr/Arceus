@@ -33,7 +33,7 @@ def get_pokemon_name(pokemon):
 def format_output(index_entry):
     time_elapsed = "Rates are subjective, so stfu if you don't agree."
     embed = discord.Embed(title=index_entry['name'], description=time_elapsed,
-                          color=discord.Color.orange())
+                          color=discord.Color.red())
     embed.add_field(name="Male", value=str(index_entry['male']), inline=True)
     embed.add_field(name="Female", value=str(index_entry['female']), inline=True)
     embed.add_field(name="Ungendered", value=str(index_entry['ungendered']), inline=True)
