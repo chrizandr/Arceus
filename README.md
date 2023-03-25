@@ -20,6 +20,7 @@ source venv/bin/activate
 ```
 sudo apt install python3-pip
 pip install -r requirements.txt
+mkdir data/
 ```
 
 ### Add auth token to your environment
