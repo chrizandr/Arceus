@@ -1,5 +1,5 @@
 # Arceus
-Arceus bot for dicsord server
+Arceus bot for discord server
 
 ## Bot VM setup
 
