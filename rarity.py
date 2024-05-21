@@ -123,3 +123,7 @@ def rarity_handler(message):
 
     else:
         return "Use this format ffs ```!rarity <pokemon>```"
+
+
+if __name__ == "__main__":
+    pass

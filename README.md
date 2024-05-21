@@ -1,5 +1,5 @@
 # Arceus
-Arceus bot for dicsord server
+Arceus bot for discord server
 
 ## Bot VM setup
 
@@ -20,6 +20,7 @@ source venv/bin/activate
 ```
 sudo apt install python3-pip
 pip install -r requirements.txt
+mkdir data/
 ```
 
 ### Add auth token to your environment
