@@ -43,11 +43,11 @@ def format_output(index_entry):
 
 
 def get_rate(pokemon):
-    pokemon_name = get_pokemon_name(pokemon)
-    if pokemon_name in rate_sheet:
-        response = format_output(rate_sheet[pokemon_name])
-    else:
-        response = f"I rate it `{random.randint(0, 10)}/10`"
+    # pokemon_name = get_pokemon_name(pokemon)
+    # if pokemon_name in rate_sheet:
+    #    response = format_output(rate_sheet[pokemon_name])
+    # else:
+    response = f"I rate it `{random.randint(0, 10)}/10`"
     return response
 
 
