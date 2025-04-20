@@ -5,7 +5,6 @@ from trainer_id import trainer_id_handler
 from rarity import rarity_handler
 from rate import rate_handler
 from for_trade import trainer_ft_handler
-from perfect_exp import perfect_exp_handler
 from dotenv import load_dotenv
 
 load_dotenv()
