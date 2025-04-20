@@ -2,3 +2,4 @@ python-dotenv==0.20.0
 discord.py==1.7.3
 pysondb==1.6.7
 beautifulsoup4==4.11.1
+requests==2.27.1
